@@ -46,10 +46,10 @@ The dataset consists of the following features:
 
 - Link for the Dataset <a href="https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023">(Click Here!)</a>. The dataset is from Kaggle.
 
-## Home Page
-<p align="center">
-  <img src="images/Dashboard_image..png" width="100%" />
+## Home Page<p align="center">
+  <img src="https://github.com/Vishwajeetkumarsingh/Spotify_Dashboard./blob/main/Images/Dashboard_image..png" width="100%" />
 </p>
+
 
 
 ## Visual Used:
